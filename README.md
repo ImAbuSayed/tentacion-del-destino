@@ -1,4 +1,4 @@
-# Tentación del destino
+# Tentación del destino, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tentación del destino |
+| **Title** | Tentación del destino, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-del-destino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tentación del destino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-del-destino/) |
+| **Get License** | [Get License For Tentación del destino, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-del-destino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, no te me vayas que la noche está empezando
+> Sé por cómo me miras lo que estás imaginando
+> Un juego de tensión que nos quema la razón
+> Acércate un poquito y róbame el corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c741efdfb6d5ed5563cb19a76f1922ba074187a874be0256b0c01c9222908541` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

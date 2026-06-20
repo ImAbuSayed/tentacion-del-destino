@@ -1,6 +1,6 @@
 # License
 
-**Tentación del destino**
+**Tentación del destino, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
